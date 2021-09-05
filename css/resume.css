@@ -30,8 +30,8 @@ h6 {
 }
 
 h1 {
-  font-size: 6rem;
-  line-height: 5.5rem;
+  font-size: 4.5rem;
+  line-height: 3.5rem;
 }
 
 h2 {
@@ -40,6 +40,10 @@ h2 {
 
 h3 {
   font-size: 2rem;
+}
+
+.presentations {
+  font-size: 20px;
 }
 
 p.lead {
@@ -56,14 +60,14 @@ p.lead {
 
 .social-icons a {
   display: inline-block;
-  height: 3.5rem;
-  width: 3.5rem;
+  height: 2.5rem;
+  width: 2.5rem;
   background-color: #495057;
   color: #fff !important;
   border-radius: 100%;
   text-align: center;
-  font-size: 1.5rem;
-  line-height: 3.5rem;
+  font-size: 1rem;
+  line-height: 2.5rem;
   margin-right: 1rem;
 }
 
